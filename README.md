@@ -1,2 +1,2 @@
 # Bookstore
-This Book Store is make with Java Play Framework
+This Book Store is made with Java Play Framework
